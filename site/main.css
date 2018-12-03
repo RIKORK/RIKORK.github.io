@@ -1,4 +1,4 @@
-p {
+ p {
 	/*Можно менять*/
 	font-size: 32px;
 	/*Можно менять*/
@@ -20,7 +20,7 @@ main {
 
 body {
 	/*Можно менять*/
-	background-color: #fff5ea; 
+	background-color: red;
 	/*Ничего не трогаем*/
 	margin: 0;
 }
@@ -30,6 +30,7 @@ img {
 	display: block;
 	/*Ничего не трогаем*/
 	max-width: 100%;
+	margin: auto;
 }
 
 h1 {
